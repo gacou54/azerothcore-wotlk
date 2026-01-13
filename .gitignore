@@ -2,6 +2,7 @@
 # AzerothCore
 #
 
+.env
 /conf/*
 !/conf/dist
 /modules/*
@@ -102,3 +103,4 @@ local.properties
 #  !modules/yourmodule
 #
 # ==================
+backup_*
